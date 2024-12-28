@@ -7,3 +7,4 @@ Total=s1+s2+s3+s4+s5
 print("Total mark =",Total)
 avg=Total/5
 print("Average =",avg)
+
