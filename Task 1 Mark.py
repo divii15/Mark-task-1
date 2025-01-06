@@ -1,3 +1,7 @@
+#TASK 1
+#9)find the total and avarage of the 5 subject?
+
+
 s1=int(input("Enter mark for tamil:"))
 s2=int(input("Enter mark for english:"))
 s3=int(input("Enter mark for maths:"))
